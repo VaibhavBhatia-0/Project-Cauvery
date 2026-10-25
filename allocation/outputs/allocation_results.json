@@ -1,0 +1,1136 @@
+{
+  "demand_tmc": {
+    "bengaluru": 2.8804,
+    "domestic": 0.3,
+    "environment": 0.25,
+    "agriculture": 25.062
+  },
+  "total_demand_tmc": 28.4924,
+  "reservoir_forecast_tmc": {
+    "Harangi": 5.7406,
+    "Hemavathi": 15.2238,
+    "KRS": 24.5452,
+    "Kabini": 10.5865
+  },
+  "design_capacity_tmc": 114.571,
+  "cases": {
+    "model_based": {
+      "supply_tmc": 56.0961,
+      "strategies": {
+        "essential_priority": {
+          "allocation": {
+            "bengaluru": 2.8804,
+            "domestic": 0.3,
+            "environment": 0.25,
+            "agriculture": 25.062
+          },
+          "satisfaction_pct": {
+            "bengaluru": 100.0,
+            "domestic": 100.0,
+            "environment": 100.0,
+            "agriculture": 100.0
+          },
+          "deficit": 0.0,
+          "reserve": 0.0
+        },
+        "proportional": {
+          "allocation": {
+            "bengaluru": 2.8804,
+            "domestic": 0.3,
+            "environment": 0.25,
+            "agriculture": 25.062
+          },
+          "satisfaction_pct": {
+            "bengaluru": 100.0,
+            "domestic": 100.0,
+            "environment": 100.0,
+            "agriculture": 100.0
+          },
+          "deficit": 0.0,
+          "reserve": 0.0
+        },
+        "minimum_guarantee": {
+          "allocation": {
+            "bengaluru": 2.8804,
+            "domestic": 0.3,
+            "environment": 0.25,
+            "agriculture": 25.062
+          },
+          "satisfaction_pct": {
+            "bengaluru": 100.0,
+            "domestic": 100.0,
+            "environment": 100.0,
+            "agriculture": 100.0
+          },
+          "deficit": 0.0,
+          "reserve": 0.0
+        },
+        "weighted_cuts": {
+          "allocation": {
+            "bengaluru": 2.8804,
+            "domestic": 0.3,
+            "environment": 0.25,
+            "agriculture": 25.062
+          },
+          "satisfaction_pct": {
+            "bengaluru": 100.0,
+            "domestic": 100.0,
+            "environment": 100.0,
+            "agriculture": 100.0
+          },
+          "deficit": 0.0,
+          "reserve": 0.0
+        },
+        "equal_cuts": {
+          "allocation": {
+            "bengaluru": 2.8804,
+            "domestic": 0.3,
+            "environment": 0.25,
+            "agriculture": 25.062
+          },
+          "satisfaction_pct": {
+            "bengaluru": 100.0,
+            "domestic": 100.0,
+            "environment": 100.0,
+            "agriculture": 100.0
+          },
+          "deficit": 0.0,
+          "reserve": 0.0
+        },
+        "optimised": {
+          "allocation": {
+            "bengaluru": 2.8804,
+            "domestic": 0.3,
+            "environment": 0.25,
+            "agriculture": 25.062
+          },
+          "satisfaction_pct": {
+            "bengaluru": 100.0,
+            "domestic": 100.0,
+            "environment": 100.0,
+            "agriculture": 100.0
+          },
+          "deficit": 0.0,
+          "reserve": 0.0
+        },
+        "drought_hedging": {
+          "allocation": {
+            "bengaluru": 2.8804,
+            "domestic": 0.3,
+            "environment": 0.25,
+            "agriculture": 25.062
+          },
+          "satisfaction_pct": {
+            "bengaluru": 100.0,
+            "domestic": 100.0,
+            "environment": 100.0,
+            "agriculture": 100.0
+          },
+          "deficit": 0.0,
+          "reserve": 0.0
+        }
+      }
+    },
+    "moderate_75": {
+      "supply_tmc": 21.3693,
+      "strategies": {
+        "essential_priority": {
+          "allocation": {
+            "bengaluru": 2.8804,
+            "domestic": 0.3,
+            "environment": 0.25,
+            "agriculture": 17.9389
+          },
+          "satisfaction_pct": {
+            "bengaluru": 100.0,
+            "domestic": 100.0,
+            "environment": 100.0,
+            "agriculture": 71.58
+          },
+          "deficit": 7.1231,
+          "reserve": 0.0
+        },
+        "proportional": {
+          "allocation": {
+            "bengaluru": 2.1603,
+            "domestic": 0.225,
+            "environment": 0.1875,
+            "agriculture": 18.7965
+          },
+          "satisfaction_pct": {
+            "bengaluru": 75.0,
+            "domestic": 75.0,
+            "environment": 75.0,
+            "agriculture": 75.0
+          },
+          "deficit": 7.1231,
+          "reserve": 0.0
+        },
+        "minimum_guarantee": {
+          "allocation": {
+            "bengaluru": 2.4483,
+            "domestic": 0.24,
+            "environment": 0.1875,
+            "agriculture": 18.4935
+          },
+          "satisfaction_pct": {
+            "bengaluru": 85.0,
+            "domestic": 80.0,
+            "environment": 75.0,
+            "agriculture": 73.79
+          },
+          "deficit": 7.1231,
+          "reserve": 0.0
+        },
+        "weighted_cuts": {
+          "allocation": {
+            "bengaluru": 2.6831,
+            "domestic": 0.2726,
+            "environment": 0.2158,
+            "agriculture": 18.1978
+          },
+          "satisfaction_pct": {
+            "bengaluru": 93.15,
+            "domestic": 90.87,
+            "environment": 86.31,
+            "agriculture": 72.61
+          },
+          "deficit": 7.1231,
+          "reserve": 0.0
+        },
+        "equal_cuts": {
+          "allocation": {
+            "bengaluru": 0.0,
+            "domestic": 0.0,
+            "environment": 0.0,
+            "agriculture": 21.3693
+          },
+          "satisfaction_pct": {
+            "bengaluru": 0.0,
+            "domestic": 0.0,
+            "environment": 0.0,
+            "agriculture": 85.27
+          },
+          "deficit": 7.1231,
+          "reserve": 0.0
+        },
+        "optimised": {
+          "allocation": {
+            "bengaluru": 2.8569,
+            "domestic": 0.2997,
+            "environment": 0.2496,
+            "agriculture": 17.963
+          },
+          "satisfaction_pct": {
+            "bengaluru": 99.19,
+            "domestic": 99.89,
+            "environment": 99.86,
+            "agriculture": 71.67
+          },
+          "deficit": 7.1231,
+          "reserve": 0.0
+        },
+        "drought_hedging": {
+          "allocation": {
+            "bengaluru": 2.4483,
+            "domestic": 0.24,
+            "environment": 0.1875,
+            "agriculture": 16.3565
+          },
+          "satisfaction_pct": {
+            "bengaluru": 85.0,
+            "domestic": 80.0,
+            "environment": 75.0,
+            "agriculture": 65.26
+          },
+          "deficit": 9.26,
+          "reserve": 2.1369
+        }
+      }
+    },
+    "severe_50": {
+      "supply_tmc": 14.2462,
+      "strategies": {
+        "essential_priority": {
+          "allocation": {
+            "bengaluru": 2.8804,
+            "domestic": 0.3,
+            "environment": 0.25,
+            "agriculture": 10.8158
+          },
+          "satisfaction_pct": {
+            "bengaluru": 100.0,
+            "domestic": 100.0,
+            "environment": 100.0,
+            "agriculture": 43.16
+          },
+          "deficit": 14.2462,
+          "reserve": 0.0
+        },
+        "proportional": {
+          "allocation": {
+            "bengaluru": 1.4402,
+            "domestic": 0.15,
+            "environment": 0.125,
+            "agriculture": 12.531
+          },
+          "satisfaction_pct": {
+            "bengaluru": 50.0,
+            "domestic": 50.0,
+            "environment": 50.0,
+            "agriculture": 50.0
+          },
+          "deficit": 14.2462,
+          "reserve": 0.0
+        },
+        "minimum_guarantee": {
+          "allocation": {
+            "bengaluru": 2.4483,
+            "domestic": 0.24,
+            "environment": 0.1875,
+            "agriculture": 11.3704
+          },
+          "satisfaction_pct": {
+            "bengaluru": 85.0,
+            "domestic": 80.0,
+            "environment": 75.0,
+            "agriculture": 45.37
+          },
+          "deficit": 14.2462,
+          "reserve": 0.0
+        },
+        "weighted_cuts": {
+          "allocation": {
+            "bengaluru": 2.4859,
+            "domestic": 0.2452,
+            "environment": 0.1815,
+            "agriculture": 11.3335
+          },
+          "satisfaction_pct": {
+            "bengaluru": 86.31,
+            "domestic": 81.74,
+            "environment": 72.61,
+            "agriculture": 45.22
+          },
+          "deficit": 14.2462,
+          "reserve": 0.0
+        },
+        "equal_cuts": {
+          "allocation": {
+            "bengaluru": 0.0,
+            "domestic": 0.0,
+            "environment": 0.0,
+            "agriculture": 14.2462
+          },
+          "satisfaction_pct": {
+            "bengaluru": 0.0,
+            "domestic": 0.0,
+            "environment": 0.0,
+            "agriculture": 56.84
+          },
+          "deficit": 14.2462,
+          "reserve": 0.0
+        },
+        "optimised": {
+          "allocation": {
+            "bengaluru": 2.8335,
+            "domestic": 0.2993,
+            "environment": 0.2493,
+            "agriculture": 10.8641
+          },
+          "satisfaction_pct": {
+            "bengaluru": 98.37,
+            "domestic": 99.77,
+            "environment": 99.72,
+            "agriculture": 43.35
+          },
+          "deficit": 14.2462,
+          "reserve": 0.0
+        },
+        "drought_hedging": {
+          "allocation": {
+            "bengaluru": 2.4483,
+            "domestic": 0.24,
+            "environment": 0.1875,
+            "agriculture": 9.9458
+          },
+          "satisfaction_pct": {
+            "bengaluru": 85.0,
+            "domestic": 80.0,
+            "environment": 75.0,
+            "agriculture": 39.68
+          },
+          "deficit": 15.6708,
+          "reserve": 1.4246
+        }
+      }
+    }
+  },
+  "sweep": [
+    {
+      "supply_pct": 20,
+      "essential_priority": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 9.05
+      },
+      "proportional": {
+        "bengaluru": 20.0,
+        "domestic": 20.0,
+        "environment": 20.0,
+        "agriculture": 20.0
+      },
+      "minimum_guarantee": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 11.26
+      },
+      "weighted_cuts": {
+        "bengaluru": 78.09,
+        "domestic": 70.79,
+        "environment": 56.18,
+        "agriculture": 12.36
+      },
+      "equal_cuts": {
+        "bengaluru": 0.0,
+        "domestic": 0.0,
+        "environment": 0.0,
+        "agriculture": 22.74
+      },
+      "optimised": {
+        "bengaluru": 97.4,
+        "domestic": 99.64,
+        "environment": 99.55,
+        "agriculture": 9.36
+      },
+      "drought_hedging": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 8.99
+      }
+    },
+    {
+      "supply_pct": 25,
+      "essential_priority": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 14.73
+      },
+      "proportional": {
+        "bengaluru": 25.0,
+        "domestic": 25.0,
+        "environment": 25.0,
+        "agriculture": 25.0
+      },
+      "minimum_guarantee": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 16.95
+      },
+      "weighted_cuts": {
+        "bengaluru": 79.46,
+        "domestic": 72.61,
+        "environment": 58.92,
+        "agriculture": 17.83
+      },
+      "equal_cuts": {
+        "bengaluru": 0.0,
+        "domestic": 0.0,
+        "environment": 0.0,
+        "agriculture": 28.42
+      },
+      "optimised": {
+        "bengaluru": 97.56,
+        "domestic": 99.66,
+        "environment": 99.58,
+        "agriculture": 15.02
+      },
+      "drought_hedging": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 14.1
+      }
+    },
+    {
+      "supply_pct": 30,
+      "essential_priority": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 20.42
+      },
+      "proportional": {
+        "bengaluru": 30.0,
+        "domestic": 30.0,
+        "environment": 30.0,
+        "agriculture": 30.0
+      },
+      "minimum_guarantee": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 22.63
+      },
+      "weighted_cuts": {
+        "bengaluru": 80.83,
+        "domestic": 74.44,
+        "environment": 61.66,
+        "agriculture": 23.31
+      },
+      "equal_cuts": {
+        "bengaluru": 0.0,
+        "domestic": 0.0,
+        "environment": 0.0,
+        "agriculture": 34.11
+      },
+      "optimised": {
+        "bengaluru": 97.72,
+        "domestic": 99.68,
+        "environment": 99.6,
+        "agriculture": 20.69
+      },
+      "drought_hedging": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 19.22
+      }
+    },
+    {
+      "supply_pct": 35,
+      "essential_priority": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 26.1
+      },
+      "proportional": {
+        "bengaluru": 35.0,
+        "domestic": 35.0,
+        "environment": 35.0,
+        "agriculture": 35.0
+      },
+      "minimum_guarantee": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 28.32
+      },
+      "weighted_cuts": {
+        "bengaluru": 82.2,
+        "domestic": 76.26,
+        "environment": 64.39,
+        "agriculture": 28.79
+      },
+      "equal_cuts": {
+        "bengaluru": 0.0,
+        "domestic": 0.0,
+        "environment": 0.0,
+        "agriculture": 39.79
+      },
+      "optimised": {
+        "bengaluru": 97.88,
+        "domestic": 99.71,
+        "environment": 99.63,
+        "agriculture": 26.35
+      },
+      "drought_hedging": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 24.34
+      }
+    },
+    {
+      "supply_pct": 40,
+      "essential_priority": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 31.79
+      },
+      "proportional": {
+        "bengaluru": 40.0,
+        "domestic": 40.0,
+        "environment": 40.0,
+        "agriculture": 40.0
+      },
+      "minimum_guarantee": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 34.0
+      },
+      "weighted_cuts": {
+        "bengaluru": 83.57,
+        "domestic": 78.09,
+        "environment": 67.13,
+        "agriculture": 34.27
+      },
+      "equal_cuts": {
+        "bengaluru": 0.0,
+        "domestic": 0.0,
+        "environment": 0.0,
+        "agriculture": 45.47
+      },
+      "optimised": {
+        "bengaluru": 98.05,
+        "domestic": 99.73,
+        "environment": 99.66,
+        "agriculture": 32.02
+      },
+      "drought_hedging": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 29.45
+      }
+    },
+    {
+      "supply_pct": 45,
+      "essential_priority": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 37.47
+      },
+      "proportional": {
+        "bengaluru": 45.0,
+        "domestic": 45.0,
+        "environment": 45.0,
+        "agriculture": 45.0
+      },
+      "minimum_guarantee": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 39.68
+      },
+      "weighted_cuts": {
+        "bengaluru": 84.94,
+        "domestic": 79.91,
+        "environment": 69.87,
+        "agriculture": 39.74
+      },
+      "equal_cuts": {
+        "bengaluru": 0.0,
+        "domestic": 0.0,
+        "environment": 0.0,
+        "agriculture": 51.16
+      },
+      "optimised": {
+        "bengaluru": 98.21,
+        "domestic": 99.75,
+        "environment": 99.69,
+        "agriculture": 37.68
+      },
+      "drought_hedging": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 34.57
+      }
+    },
+    {
+      "supply_pct": 50,
+      "essential_priority": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 43.16
+      },
+      "proportional": {
+        "bengaluru": 50.0,
+        "domestic": 50.0,
+        "environment": 50.0,
+        "agriculture": 50.0
+      },
+      "minimum_guarantee": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 45.37
+      },
+      "weighted_cuts": {
+        "bengaluru": 86.31,
+        "domestic": 81.74,
+        "environment": 72.61,
+        "agriculture": 45.22
+      },
+      "equal_cuts": {
+        "bengaluru": 0.0,
+        "domestic": 0.0,
+        "environment": 0.0,
+        "agriculture": 56.84
+      },
+      "optimised": {
+        "bengaluru": 98.37,
+        "domestic": 99.77,
+        "environment": 99.72,
+        "agriculture": 43.35
+      },
+      "drought_hedging": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 39.68
+      }
+    },
+    {
+      "supply_pct": 55,
+      "essential_priority": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 48.84
+      },
+      "proportional": {
+        "bengaluru": 55.0,
+        "domestic": 55.0,
+        "environment": 55.0,
+        "agriculture": 55.0
+      },
+      "minimum_guarantee": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 51.05
+      },
+      "weighted_cuts": {
+        "bengaluru": 87.67,
+        "domestic": 83.57,
+        "environment": 75.35,
+        "agriculture": 50.7
+      },
+      "equal_cuts": {
+        "bengaluru": 0.0,
+        "domestic": 0.0,
+        "environment": 0.0,
+        "agriculture": 62.53
+      },
+      "optimised": {
+        "bengaluru": 98.54,
+        "domestic": 99.8,
+        "environment": 99.75,
+        "agriculture": 49.01
+      },
+      "drought_hedging": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 44.8
+      }
+    },
+    {
+      "supply_pct": 60,
+      "essential_priority": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 54.53
+      },
+      "proportional": {
+        "bengaluru": 60.0,
+        "domestic": 60.0,
+        "environment": 60.0,
+        "agriculture": 60.0
+      },
+      "minimum_guarantee": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 56.74
+      },
+      "weighted_cuts": {
+        "bengaluru": 89.04,
+        "domestic": 85.39,
+        "environment": 78.09,
+        "agriculture": 56.18
+      },
+      "equal_cuts": {
+        "bengaluru": 0.0,
+        "domestic": 0.0,
+        "environment": 0.0,
+        "agriculture": 68.21
+      },
+      "optimised": {
+        "bengaluru": 98.7,
+        "domestic": 99.82,
+        "environment": 99.77,
+        "agriculture": 54.68
+      },
+      "drought_hedging": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 49.92
+      }
+    },
+    {
+      "supply_pct": 65,
+      "essential_priority": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 60.21
+      },
+      "proportional": {
+        "bengaluru": 65.0,
+        "domestic": 65.0,
+        "environment": 65.0,
+        "agriculture": 65.0
+      },
+      "minimum_guarantee": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 62.42
+      },
+      "weighted_cuts": {
+        "bengaluru": 90.41,
+        "domestic": 87.22,
+        "environment": 80.83,
+        "agriculture": 61.66
+      },
+      "equal_cuts": {
+        "bengaluru": 0.0,
+        "domestic": 0.0,
+        "environment": 0.0,
+        "agriculture": 73.9
+      },
+      "optimised": {
+        "bengaluru": 98.86,
+        "domestic": 99.84,
+        "environment": 99.8,
+        "agriculture": 60.34
+      },
+      "drought_hedging": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 55.03
+      }
+    },
+    {
+      "supply_pct": 70,
+      "essential_priority": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 65.89
+      },
+      "proportional": {
+        "bengaluru": 70.0,
+        "domestic": 70.0,
+        "environment": 70.0,
+        "agriculture": 70.0
+      },
+      "minimum_guarantee": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 68.11
+      },
+      "weighted_cuts": {
+        "bengaluru": 91.78,
+        "domestic": 89.04,
+        "environment": 83.57,
+        "agriculture": 67.13
+      },
+      "equal_cuts": {
+        "bengaluru": 0.0,
+        "domestic": 0.0,
+        "environment": 0.0,
+        "agriculture": 79.58
+      },
+      "optimised": {
+        "bengaluru": 99.02,
+        "domestic": 99.86,
+        "environment": 99.83,
+        "agriculture": 66.01
+      },
+      "drought_hedging": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 60.15
+      }
+    },
+    {
+      "supply_pct": 75,
+      "essential_priority": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 71.58
+      },
+      "proportional": {
+        "bengaluru": 75.0,
+        "domestic": 75.0,
+        "environment": 75.0,
+        "agriculture": 75.0
+      },
+      "minimum_guarantee": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 73.79
+      },
+      "weighted_cuts": {
+        "bengaluru": 93.15,
+        "domestic": 90.87,
+        "environment": 86.31,
+        "agriculture": 72.61
+      },
+      "equal_cuts": {
+        "bengaluru": 0.0,
+        "domestic": 0.0,
+        "environment": 0.0,
+        "agriculture": 85.27
+      },
+      "optimised": {
+        "bengaluru": 99.19,
+        "domestic": 99.89,
+        "environment": 99.86,
+        "agriculture": 71.67
+      },
+      "drought_hedging": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 65.26
+      }
+    },
+    {
+      "supply_pct": 80,
+      "essential_priority": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 77.26
+      },
+      "proportional": {
+        "bengaluru": 80.0,
+        "domestic": 80.0,
+        "environment": 80.0,
+        "agriculture": 80.0
+      },
+      "minimum_guarantee": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 79.48
+      },
+      "weighted_cuts": {
+        "bengaluru": 94.52,
+        "domestic": 92.7,
+        "environment": 89.04,
+        "agriculture": 78.09
+      },
+      "equal_cuts": {
+        "bengaluru": 10.63,
+        "domestic": 0.0,
+        "environment": 0.0,
+        "agriculture": 89.73
+      },
+      "optimised": {
+        "bengaluru": 99.35,
+        "domestic": 99.91,
+        "environment": 99.89,
+        "agriculture": 77.34
+      },
+      "drought_hedging": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 70.38
+      }
+    },
+    {
+      "supply_pct": 85,
+      "essential_priority": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 82.95
+      },
+      "proportional": {
+        "bengaluru": 85.0,
+        "domestic": 85.0,
+        "environment": 85.0,
+        "agriculture": 85.0
+      },
+      "minimum_guarantee": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 85.16
+      },
+      "weighted_cuts": {
+        "bengaluru": 95.89,
+        "domestic": 94.52,
+        "environment": 91.78,
+        "agriculture": 83.57
+      },
+      "equal_cuts": {
+        "bengaluru": 35.36,
+        "domestic": 0.0,
+        "environment": 0.0,
+        "agriculture": 92.57
+      },
+      "optimised": {
+        "bengaluru": 99.51,
+        "domestic": 99.93,
+        "environment": 99.92,
+        "agriculture": 83.0
+      },
+      "drought_hedging": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 75.5
+      }
+    },
+    {
+      "supply_pct": 90,
+      "essential_priority": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 88.63
+      },
+      "proportional": {
+        "bengaluru": 90.0,
+        "domestic": 90.0,
+        "environment": 90.0,
+        "agriculture": 90.0
+      },
+      "minimum_guarantee": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 90.84
+      },
+      "weighted_cuts": {
+        "bengaluru": 97.26,
+        "domestic": 96.35,
+        "environment": 94.52,
+        "agriculture": 89.04
+      },
+      "equal_cuts": {
+        "bengaluru": 60.09,
+        "domestic": 0.0,
+        "environment": 0.0,
+        "agriculture": 95.41
+      },
+      "optimised": {
+        "bengaluru": 99.67,
+        "domestic": 99.95,
+        "environment": 99.94,
+        "agriculture": 88.67
+      },
+      "drought_hedging": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 80.61
+      }
+    },
+    {
+      "supply_pct": 95,
+      "essential_priority": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 94.32
+      },
+      "proportional": {
+        "bengaluru": 95.0,
+        "domestic": 95.0,
+        "environment": 95.0,
+        "agriculture": 95.0
+      },
+      "minimum_guarantee": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 96.53
+      },
+      "weighted_cuts": {
+        "bengaluru": 98.63,
+        "domestic": 98.17,
+        "environment": 97.26,
+        "agriculture": 94.52
+      },
+      "equal_cuts": {
+        "bengaluru": 84.82,
+        "domestic": 0.0,
+        "environment": 0.0,
+        "agriculture": 98.26
+      },
+      "optimised": {
+        "bengaluru": 99.84,
+        "domestic": 99.98,
+        "environment": 99.97,
+        "agriculture": 94.33
+      },
+      "drought_hedging": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 85.73
+      }
+    },
+    {
+      "supply_pct": 100,
+      "essential_priority": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 100.0
+      },
+      "proportional": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 100.0
+      },
+      "minimum_guarantee": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 100.0
+      },
+      "weighted_cuts": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 100.0
+      },
+      "equal_cuts": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 100.0
+      },
+      "optimised": {
+        "bengaluru": 100.0,
+        "domestic": 100.0,
+        "environment": 100.0,
+        "agriculture": 100.0
+      },
+      "drought_hedging": {
+        "bengaluru": 85.0,
+        "domestic": 80.0,
+        "environment": 75.0,
+        "agriculture": 90.84
+      }
+    }
+  ]
+}

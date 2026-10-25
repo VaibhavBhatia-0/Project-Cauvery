@@ -1,0 +1,79 @@
+{
+  "description": "Open-Meteo IFS 2017\u20132022 train, ERA5 1991\u20132022 climate normals; 2023\u20132025 blind recursive test",
+  "n_days_per_site": 1096,
+  "ensemble_members": 64,
+  "models": {
+    "baseline": {
+      "pooled": {
+        "brier": 0.13362,
+        "mae_mm_day": 4.659,
+        "mean_bias_mm_day": 1.281
+      },
+      "annual": {
+        "2023": {
+          "brier": 0.14557,
+          "mae_mm_day": 4.532,
+          "mean_bias_mm_day": 2.402
+        },
+        "2024": {
+          "brier": 0.12287,
+          "mae_mm_day": 4.502,
+          "mean_bias_mm_day": 0.58
+        },
+        "2025": {
+          "brier": 0.13247,
+          "mae_mm_day": 4.944,
+          "mean_bias_mm_day": 0.861
+        }
+      }
+    },
+    "lstm_blind": {
+      "pooled": {
+        "brier": 0.13325,
+        "mae_mm_day": 4.35,
+        "mean_bias_mm_day": 0.17
+      },
+      "annual": {
+        "2023": {
+          "brier": 0.14516,
+          "mae_mm_day": 3.995,
+          "mean_bias_mm_day": 1.285
+        },
+        "2024": {
+          "brier": 0.12103,
+          "mae_mm_day": 4.345,
+          "mean_bias_mm_day": -0.52
+        },
+        "2025": {
+          "brier": 0.1336,
+          "mae_mm_day": 4.712,
+          "mean_bias_mm_day": -0.252
+        }
+      }
+    },
+    "lstm_one_day": {
+      "pooled": {
+        "brier": 0.11121,
+        "mae_mm_day": 3.926,
+        "mean_bias_mm_day": -0.17
+      },
+      "annual": {
+        "2023": {
+          "brier": 0.12224,
+          "mae_mm_day": 3.515,
+          "mean_bias_mm_day": 0.707
+        },
+        "2024": {
+          "brier": 0.0992,
+          "mae_mm_day": 4.002,
+          "mean_bias_mm_day": -0.589
+        },
+        "2025": {
+          "brier": 0.11221,
+          "mae_mm_day": 4.261,
+          "mean_bias_mm_day": -0.626
+        }
+      }
+    }
+  }
+}
